@@ -1,4 +1,3 @@
-# milsopandzic.github.io
 # Data Scientist
 
 ### Education
