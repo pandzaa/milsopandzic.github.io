@@ -17,6 +17,6 @@
 
 ## Education
 - PhD candidate | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2018_ - present)	
-- MSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_ - _2016_)
-- BSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2010_ - _2013_)	
+- MSc           | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_ - _2016_)
+- BSc           | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2010_ - _2013_)	
 
