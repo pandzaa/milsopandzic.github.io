@@ -17,8 +17,6 @@
 
 ## Education
 - PhD candidate | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2018_)	
-  Thesis topic: "Transfer knowledge of machine learning models in spatio-temporal domain for crop mapping based on Earth observation data"
-  Mentor: Prof. Dr. Milan Kilibarda
 - MSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2016_)
 - BSc | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_)	
 
