@@ -11,7 +11,7 @@
 - _June 2016 - December 2017_
 - Supervisor: Dr. Eetu Puttonen
 
-![Austrian Flag](https://althistory.fandom.com/wiki/File:Flag_of_Austria.svg) **Guest Researcher** (TU Vienna, Department of Geodesy and Geoinformatics) 
+![Austrian Flag](https://static.wikia.nocookie.net/althistory/images/4/41/Flag_of_Austria.svg/revision/latest?cb=20221231004643) **Guest Researcher** (TU Vienna, Department of Geodesy and Geoinformatics) 
 - _September 2015 - December 2015_
 - Supervisor: Prof. Dr. Norbert Pfeifer
 
