@@ -9,7 +9,7 @@
 **Researcher** (Finnish Geospatial Research Institute (FGI/NLS)) _June 2016 - December 2017_
 - Supervisor: Dr. Eetu Puttonen
 
-![Austrian Flag](https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg) **Guest Researcher** (TU Vienna, Department of Geodesy and Geoinformatics) _September 2015 - December 2015_
+![Austrian Flag](https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg, alt="Austrian Flag" width="16" height="16") **Guest Researcher** (TU Vienna, Department of Geodesy and Geoinformatics) _September 2015 - December 2015_
 - Supervisor: Prof. Dr. Norbert Pfeifer
 
 ## Education
