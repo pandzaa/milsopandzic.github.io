@@ -1,21 +1,21 @@
 # Remote Sensing & GIS Specialist • Data Scientist
 
+#### Technical Skills: Python, QGIS, SNAP, Google Earth Engine, Photoshop
 
-### Work Experience
-Research Assistant @ BioSense Institute, University of Novi Sad (Serbia)
+## Work Experience
+**Research Assistant @ BioSense Institute, University of Novi Sad (Serbia) (_April 2018 - Present_)**
 Supervisors: Dr. Sanja Brdar & Dr. Oskar Marko
 
-Researcher @ Finnish Geospatial Research Institute (FGI/NLS), Masala (Finland)
+**Researcher @ Finnish Geospatial Research Institute (FGI/NLS), Masala (Finland) (_June 2016 - December 2017_)**
 Supervisor: Dr. Eetu Puttonen
 
-Guest Researcher @ TU Vienna, Department of Geodesy and Geoinformatics (Austria)
+**Guest Researcher @ TU Vienna, Department of Geodesy and Geoinformatics (Austria) (_September 2015 - December 2015_)**
 Supervisor: Prof. Dr. Norbert Pfeifer
 
-### Education
-PhD candidate at the Faculty of Civil Engineering, University of Belgrade, Serbia - Department of Geodesy and Geoinformatics
+## Education
+-  PhD candidate  | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2018_)	
 Thesis topic: "Transfer knowledge of machine learning models in spatio-temporal domain for crop mapping based on Earth observation data"
-2018-
 Mentor: Prof. Dr. Milan Kilibarda
+-  MSc  | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2016_)
+-  BSc  | Department of Geodesy and Geoinformatics, Faculty of Civil Engineering, University of Belgrade, Serbia (_2013_)	
 
-BSc and MSc in Geodesy and Geoinformation (2010-2016)
-Faculty of Civil Engineering, University of Belgrade - Department of Geodesy and Geoinformatics
